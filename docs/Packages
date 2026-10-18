@@ -1,0 +1,21 @@
+Package: webbridge-desktop
+Architecture: amd64
+Version: 1.0.3
+Priority: optional
+Section: default
+Maintainer: FOcculto <focculto@gmail.com>
+Installed-Size: 290730
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/webbridge-desktop_1.0.3_amd64.deb
+Size: 100358968
+MD5sum: 5715835406959602d50b46c278b5ba3e
+SHA1: cea69bc32549c382b191eb9a3934f82fa92d63bd
+SHA256: 453aba114331950ce8b28d6c6ffa908ef0848ae69fb745014f070cb7242729b6
+SHA512: 2103e70157c511fa18ed86e38e3f4b1f7fa3de0354a44b56a995bd2328a9931fd401eadf0ed535db9c204cec7ddd1c02f1adb4e181a7968480cfa166c33e2805
+Homepage: https://github.com/FOcculto/webbridge-desktop
+Description: 
+  Client desktop Linux indipendente basato su WhatsApp Web
+License: MIT
+Vendor: FOcculto
+

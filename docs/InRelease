@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Date: Sun, 18 Oct 2026 15:14:54 +0000
+Label: WebBridge Desktop APT
+Origin: WebBridge Desktop
+Suite: stable
+MD5Sum:
+ 173160c82b8da81b0d09b4c82d5d3fad              833 Packages
+ 065dcef1d4c2f68822d38d33b4433561              566 Packages.gz
+ c39a2959cdc07d5d4b2c76988a724219              145 Release
+SHA1:
+ 88b0865bef7e09e19ea6e3512f576a699e8ae766              833 Packages
+ 693e85c1640269cfbb5a0b4104188a0c5b89955f              566 Packages.gz
+ 62bd852370a6b505b325be4bbf697b9637035d8d              145 Release
+SHA256:
+ 31ab465a9efa044c13274072c435d6b0d70f8e332a9dc3819e094153bb321e8d              833 Packages
+ e0808130d4edc456ee0387ef4d16ccc28245270eba79b30dfba38adfa2d89b2b              566 Packages.gz
+ e45392872cc1746d83cd3484f90eb3b2cfc39ca6640c35b6090d20e7fbe0c703              145 Release
+SHA512:
+ e28d35c1368bd542c9679ec2a6eb9c3e3b08c7a1b1aa860a90a89a2552a2d701e1efe3274ec18c8c8234cc5c9f9d5c0213f55f857fe0323d56428f0ace7e2d51              833 Packages
+ 020976ba28de5a17f641e0c0a488d2701c31d8f244c8517c1811737870e326a468fdd35db761a73154c768e4ed804a94e411cff66ab2917d12dc40be0aebb654              566 Packages.gz
+ 22e3b58ae14337bf72341a657685875e5b306ee158e35b4dd8de286e0ee8af58032989a1b4b0184ab44b4f255aa31079b6bcb68e02d12d1778ec3cf7632fcc48              145 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEg5520h6n2xCiXvES7m5cPNBNZNUFAmrU4ncACgkQ7m5cPNBN
+ZNVc7w//SO6PMBkwlU4Cux5Bvcx2QcXce5ThZRMi1N/+nVOqQB6jaKqonzT3wMjx
+4eQTMBPexblwDc8c9j4obATavC8B2xTrMJbge6uJZnZ55+rjSgCWnjXxPNDUw9kg
+sgOkl6eDohYCVXIJo6GdpjC7HBHle70/OjAc7w98eTJkJA/EfRZz05I9spcdrhCg
+TcKAEsCPc6LOqoOWsRa9aXCEw9hUT3DAFxHVsJ0vqjUCZT0ULIFjqcCXMcoLcBUL
+uFGH4mnz42pkl1zu7lTYD8c4MO+x9cWgeB4cfwhWdE7Kz0V+CzbC7CfRsYksBxuz
+TnpTKDa+du3BW+ujhQ/H/ykXUeza98zWDpWaO1fkSBQ8ETfALWnEnI9BVvd62jtA
+I7L/6pmegLPHKuJXQK1x7lp5zMvPMbcXCFMZn8ulLq8MzoiEb4zQjWvjoj/meMMY
+LuLNlMacce1wQL6Fh/8+UHQnZqG2D5Zs2jE2rH+eM/bvWwOPZ16RmW4wLyzMd77j
+uOXZKlmayRBcCTpDGGzb21B0ExOHvv1Mx3PID9377fSLR3dLHWwR17PkGN18aIul
+exrocelrdBWkl02NthL5JcwCteNMOzMWF6VOTh9jCvyGnS2lWFBs5S5mq/fKlm/E
+2ig80qRGKmcsjpF9qsOlkohhRh5gijROtWKAhcno9m/Tf2737gw=
+=UjlW
+-----END PGP SIGNATURE-----

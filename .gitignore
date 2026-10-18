@@ -1,0 +1,8 @@
+*.key
+*.secret
+*.private
+*.asc.private
+*.gpg.private
+*.bak
+.env
+.gnupg/
